@@ -1,0 +1,20 @@
+{
+  "name": "orm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"No tests yet implemented\"",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jalynnwhite/ORM.git"
+  },
+  "author": "Jalynn White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jalynnwhite/ORM/issues"
+  },
+  "homepage": "https://github.com/Jalynnwhite/ORM#readme"
+}
